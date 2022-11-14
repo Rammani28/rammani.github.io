@@ -1,0 +1,175 @@
+/*******************    TAGS STYLE     *******************/
+
+body {
+	color:#40514E;
+    margin:0px;
+    text-align:center;
+    font-family: 'merriweather', serif;
+}
+
+h1 {
+    font-size: 6.625rem;
+    margin:50px auto 0 auto;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    line-height: 0.9;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+p {
+	line-height: 2.3;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color:#11999E;
+}
+
+a:hover {
+	color: #EAF6F6;
+}
+
+hr{
+	border: dotted grey 6px;
+	border-bottom: none;
+    width: 5%;
+    margin: 100px 47.5%;
+}
+
+/*******************    CLASS STYLE     *******************/
+
+.top-container{
+    background-color: #E4F9F9;
+    position:relative;
+    padding-top:100px;
+}
+
+.middle-container{
+    text-align: auto;
+}
+.bottom-container{
+    line-height:2;
+    font-color: #11999E;
+    background-color: #66BFBF;
+    height: 200px;
+}
+
+.footer-link{
+   position: relative;
+   top:50px;
+   margin-left: 40px;
+   text-decoration: none;
+   
+}
+
+.copyright{
+   padding-top: 80px;
+   color: white;
+   font-size: 0.75rem;
+}
+
+
+.top-cloud {
+    position: absolute;
+
+    right: 300px;
+    top:50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left:300px;
+    bottom:450px;
+
+}
+
+.skills{
+    text-align: center;
+}
+
+.skill-row{
+    
+    margin: 100px auto;
+    text-align: left;
+    padding: 0.1px;
+    width: 40%;
+}
+
+.up-image {
+    width: 25%;
+
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 55px;
+
+}
+.down-image{
+    position: relative;
+    top: 30px;
+    border-radius: 100%;
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+
+
+}
+.mountain-image {
+    width: 900px;
+}
+
+.profile{
+    position: relative;
+    
+    text-align: center;
+
+}
+.my-description{
+    margin:auto;
+    width: 30%;
+}
+
+.bottom-description{
+	width: 40%;
+	margin: 40px auto 60px ;
+	line-height: 2;
+}
+
+.contact-button {
+   background: #1E62D0;
+   border-radius: 20px;
+   color: #FFFFFF;
+   padding: 10px;
+
+   text-decoration: none;
+   display: inline-block;
+   margin-bottom: 100px;
+   text-align: center;
+}
+
+.contact-button:hover {
+   box-shadow: green;
+   background: #0e73e2;
+   border-radius: 100px;
+   text-decoration: none;
+}
+
+
+/*******************    ID STYLE     *******************/
+
+#profile-photo {
+    margin: 150px auto 50px;
+    width: 250px;
+    border-radius: 100%;
+}
+
+
+
