@@ -1,2 +1,2 @@
 # cv
-[This is the link](https://rammani28.github.io/cv/)
+[Visit site](https://rammani28.github.io/rammani.github.io/)
